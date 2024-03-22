@@ -1,0 +1,194 @@
+body {
+  background-color: black;
+}
+
+.intro {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  font-style: italic;
+  padding-top: 60px;
+  padding-bottom: 90px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.headphoto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  padding-top: 60px;
+  padding-bottom: 200px;
+}
+
+.textone {
+  color: white;
+  position: absolute;
+  top: 50%;
+  font-size: 25px;
+  padding-left: 40px;
+  text-align: center;
+  font-family: italic;
+}
+
+.texttwo {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding-left: 1200px;
+  position: absolute;
+  top: 50%;
+}
+
+.reddeath {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  padding-bottom: 90px;
+}
+
+.textthree {
+  color: red;
+  font-size: 25px;
+  text-align: center;
+  padding-right: 100px;
+  padding-left: 50px;
+  position: absolute;
+  top: 107%;
+}
+
+.textfour {
+  color: red;
+  font-size: 25px;
+  text-align: center;
+  padding-left: 1200px;
+  padding-right: 30px;
+  position: absolute;
+  top: 107%;
+}
+
+.textfive {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 90px;
+  margin: 150px;
+}
+
+.textsix {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin: 150px;
+}
+
+.christine {
+  display: flex;
+  padding-left: 200px;
+  padding-top: 100px;
+  float: left;
+  margin-right: 40px;
+}
+
+.textseven {
+ color: white;
+  font-size: 30px;
+  padding-left: 400px;
+  margin-left: 300px;
+  padding-top: 200px;
+  font-style: italic;
+  margin-right: 100px;
+}
+
+.texteight {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 200px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.img2 {
+  width: 20%;
+  float: left;
+  margin-right: 200px;
+  padding-left: 150px;
+  padding-top: 20px;
+  padding-bottom: 200px;
+}
+
+.Aminta {
+  color: white;
+  padding-top: 90px;
+  font-size: 48px;
+  font-style: italic;
+  padding-left: 10px;
+  padding-bottom: 400px;
+}
+
+.pointofnoreturn {
+  width: 30%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textnine {
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 405%;
+  text-align: center;
+  padding-left: 90px;
+  font-style: italic;
+}
+
+.textten {
+  color: red;
+  font-size: 40px;
+  text-align: center;
+  padding-left: 1200px;
+  position: absolute;
+  top: 400%;
+  font-style: italic;
+}
+
+.texteleven {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+	padding-top: 100px;
+  padding-bottom: 100px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+a {
+  color: white;
+  font-size: 35px;
+  padding-left: 600px;
+  padding-bottom: 100px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+
+a:active {
+  color: blue;
+}
